@@ -6,4 +6,4 @@ To use Spigot refer to this
 <a href="https://www.spigotmc.org/wiki/spigot-installation">link</a>.
 <br>Just put Murderpillars.jar into your plugins folder, and then run your server!
   
-<br> and if you know your stuff you can just edit Murderpillars-open <s>(it uses java)</s>
+<br> and if you know your stuff you can just edit Murderpillars-open <i>(it uses java)</i>
