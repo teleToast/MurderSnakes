@@ -4,4 +4,4 @@ a fork of MurderPillars
 <br><h1>How to use</h1>
 To use Spigot refer to this 
 <a href="https://www.spigotmc.org/wiki/spigot-installation">link</a>.
-Just put Murderpillars.jar into your plugins folder, and then run your server!
+<br>Just put Murderpillars.jar into your plugins folder, and then run your server!
